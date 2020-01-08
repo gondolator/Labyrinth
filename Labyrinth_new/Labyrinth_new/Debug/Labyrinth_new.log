@@ -1,0 +1,302 @@
+﻿  Labyrinth_new.cpp
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(94): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(110): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(115): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(120): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(128): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(133): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(138): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(146): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(151): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(156): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(164): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(169): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(174): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(180): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(188): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(195): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(196): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(222): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(226): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(235): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(239): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(251): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(255): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(266): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(270): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(282): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(286): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(297): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(301): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(314): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(318): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(329): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(333): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(344): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(348): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(359): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(363): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(375): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(379): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(383): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(401): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(405): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(409): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(427): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(431): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(435): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(453): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(457): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(461): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(481): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(485): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(507): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(511): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(533): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(537): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(559): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(563): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(598): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(605): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(612): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(619): warning C4244: "Argument": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(634): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(637): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(655): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(657): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(659): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(710): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(791): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(835): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(851): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(1026): warning C4129: "e": nicht erkannte Folge von Escapesequenz
+c:\users\z003udrm\source\repos\labyrinth_new\labyrinth_new\labyrinth_new.cpp(1200): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Labyrinth_new.vcxproj -> C:\Users\z003udrm\source\repos\Labyrinth_new\Debug\Labyrinth_new.exe
